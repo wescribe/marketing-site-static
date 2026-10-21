@@ -11,7 +11,6 @@ Open `index.html` to view the site. The sitemap pages are available at:
 - `/terms-of-use/`
 - `/demo/`
 - `/about/`
-- `/preview/`
 
 To refresh the snapshot from the live site, run `node scripts/mirror-site.mjs` from the repository root. The script uses only Node.js built-in modules.
 

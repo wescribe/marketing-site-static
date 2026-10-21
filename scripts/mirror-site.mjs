@@ -12,7 +12,6 @@ const pages = [
   '/terms-of-use/',
   '/demo/',
   '/about/',
-  '/preview/',
 ];
 const pageFiles = new Map(pages.map((route) => [route, route === '/' ? 'index.html' : `${route.slice(1)}index.html`]));
 const assetExtensions = /\.(?:css|js|mjs|png|jpe?g|gif|webp|avif|svg|ico|woff2?|ttf|otf|eot|mp4|webm|mp3|pdf)(?:$|\?)/i;
