@@ -1,0 +1,36 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * soleil:
+ *   - http://typekit.com/eulas/00000000000000003b9aef83
+ *   - http://typekit.com/eulas/00000000000000003b9aef7e
+ *   - http://typekit.com/eulas/00000000000000003b9aef81
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-01-30 19:08:41 UTC"}*/
+
+@import url("../p.typekit.net/p.2ab9ae7e.css");
+
+@font-face {
+font-family:"soleil";
+src:url("./af/1f781f/00000000000000003b9aef83/27/l.b9f6dff9.woff2") format("woff2"),url("./af/1f781f/00000000000000003b9aef83/27/d.b9f6dff9.woff") format("woff"),url("./af/1f781f/00000000000000003b9aef83/27/a.b9f6dff9.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"soleil";
+src:url("./af/2e4bb3/00000000000000003b9aef7e/27/l.0a69e489.woff2") format("woff2"),url("./af/2e4bb3/00000000000000003b9aef7e/27/d.0a69e489.woff") format("woff"),url("./af/2e4bb3/00000000000000003b9aef7e/27/a.0a69e489.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"soleil";
+src:url("./af/273d01/00000000000000003b9aef81/27/l.c330bb3f.woff2") format("woff2"),url("./af/273d01/00000000000000003b9aef81/27/d.c330bb3f.woff") format("woff"),url("./af/273d01/00000000000000003b9aef81/27/a.c330bb3f.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-soleil { font-family: "soleil",sans-serif; }
